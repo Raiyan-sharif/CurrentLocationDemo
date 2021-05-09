@@ -1,0 +1,6 @@
+framework module Pods_CurrentLocationGMSTests {
+  umbrella header "Pods-CurrentLocationGMSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
